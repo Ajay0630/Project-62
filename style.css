@@ -1,0 +1,52 @@
+section{
+    background-color: cadetblue;
+    text-align: center;
+}
+.album_grid {
+    width: 1000px;
+    height: 500px;
+}
+
+.menu {
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    background: white;
+    width: 100%;
+}
+
+.links {
+    display: inline;
+    padding-left: 9px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.carousel_imgs {
+    width: 1000px;
+    height: 665px;
+}
+
+p {
+    font-size: 30px;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
+}
+#image1{
+    width: 2000px;
+    height: 1200px;
+}
